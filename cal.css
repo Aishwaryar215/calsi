@@ -1,0 +1,38 @@
+text-centre{
+    text-align:centre;
+}
+.row{
+   align-items :center; 
+   background: white;
+  margin:20px;
+   font: 40px;
+   height :50px;
+   border-radius: 4px;
+   
+}
+
+.container{
+    align-items: center; 
+   margin:20px,0px ;
+   background: #7b55ff;
+   height: 500px;
+}
+   
+.button{
+    
+    font:70px;
+    height:43px ;
+    width: 50px;
+  border-radius: 2px;
+  border: 2px solid #010102;
+  #ff4055background: ;
+ }
+ 
+.input{
+     margin-top:8px;
+     height:20px;
+     background: #ffffff;
+     padding-top:10px;
+     border:2px solid #ff7e40;
+     font:200px;
+ }
